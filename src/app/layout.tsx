@@ -8,16 +8,16 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
   title: {
-    default: "Boyce Poleon Jr — I build AI teams that run businesses",
-    template: "%s | boyce.pro",
+    default: "AgentBolt — AI operator teams deployed in days",
+    template: "%s | AgentBolt",
   },
   description:
-    "AI operator team infrastructure — custom multi-agent systems deployed in 3-5 days. Self-hosted, zero vendor lock-in.",
+    "Custom multi-agent AI teams deployed in 3-5 days for your business. Self-hosted, zero vendor lock-in. Email, calendar, dev, ops, and more.",
   metadataBase: new URL("https://agentbolt.ai"),
   openGraph: {
-    title: "Boyce Poleon Jr — I build AI teams that run businesses",
+    title: "AgentBolt — AI operator teams deployed in days",
     description:
-      "Custom multi-agent AI systems deployed in 3-5 days for businesses.",
+      "Custom multi-agent AI teams deployed in 3-5 days for your business.",
     url: "https://agentbolt.ai",
     siteName: "AgentBolt",
     type: "website",
